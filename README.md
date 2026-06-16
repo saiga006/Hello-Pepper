@@ -29,8 +29,13 @@ Here are the links to the official documentation for the QiChat module and QiSdk
 - http://doc.aldebaran.com/2-1/naoqi/audio/dialog/aldialog_syntax_cheat_sheet.html
 - http://doc.aldebaran.com/2-1/naoqi/audio/dialog/dialog-syntax_full.html#qichat-syntax
 - https://android.aldebaran.com/sdk/doc/pepper-sdk/ch1_gettingstarted/installation.html
-- https://stackoverflow.com/questions/59566621/pepper-robot-emulator-is-not-starting
 - https://qisdk.softbankrobotics.com/sdk/doc/pepper-sdk/ch1_gettingstarted/starting_project.html
+
+QiSdk troubleshooting link:
+- https://stackoverflow.com/questions/59566621/pepper-robot-emulator-is-not-starting
+- https://stackoverflow.com/questions/69723789/connecting-to-pepper-robot
+- https://www.perplexity.ai/search/c12f9940-4f9c-438e-84b9-d4992f516bde
+- https://github.com/softbankrobotics-labs/additional-documentation-pepper-running-naoqi-2-9-android-version/tree/master
 
 ## ADB Connection to Pepper Robot
 
