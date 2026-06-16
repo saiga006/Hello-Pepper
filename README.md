@@ -40,6 +40,9 @@ QiSdk troubleshooting link:
 - https://www.perplexity.ai/search/c12f9940-4f9c-438e-84b9-d4992f516bde
 - https://github.com/softbankrobotics-labs/additional-documentation-pepper-running-naoqi-2-9-android-version/tree/master
 
+### Reference:
+- https://github.com/unitedroboticsgroup-france/MyPepperApplication
+
 ## ADB Connection to Pepper Robot
 
 Pepper runs on Android, so the connection can be established via **ADB (Android Debug Bridge)** to run commands directly on the robot. You need to [install](https://developer.android.com/tools/releases/platform-tools) android platform tools to access adb.
