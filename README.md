@@ -1,6 +1,9 @@
 ## Hello Pepper !!
 Sample implementation of android app which invokes Pepper Robot (Softbank Robotics) to say "Hello Pepper" **using QiSdk v1.7.5 and Android Studio Bumblebee | 2021.1.1 Patch 3.** 
 
+<img width="967" height="886" alt="image" src="https://github.com/user-attachments/assets/9f87e8c4-1135-47dc-9e11-16561dfd14b3" />
+
+
 ## Directory Structure
 
 The repository is split into the following sub-directories:
