@@ -1,5 +1,5 @@
 ## Hello Pepper !!
-Sample implementation of android app which invokes Pepper Robot (Softbank Robotics) to say "Hello Pepper" **using QiSdk v1.7.5 and Android Studio Bumblebee | 2021.1.1 Patch 3.** 
+Sample implementation of android app which invokes Pepper Robot (Softbank Robotics) running NaoQi Os v2.9.5 to say "Hello Pepper" **using QiSdk v1.7.5 and Android Studio Bumblebee | 2021.1.1 Patch 3.** 
 
 <img width="967" height="886" alt="image" src="https://github.com/user-attachments/assets/9f87e8c4-1135-47dc-9e11-16561dfd14b3" />
 
@@ -33,6 +33,7 @@ Here are the links to the official documentation for the QiChat module and QiSdk
 - http://doc.aldebaran.com/2-1/naoqi/audio/dialog/dialog-syntax_full.html#qichat-syntax
 - https://android.aldebaran.com/sdk/doc/pepper-sdk/ch1_gettingstarted/installation.html
 - https://qisdk.softbankrobotics.com/sdk/doc/pepper-sdk/ch1_gettingstarted/starting_project.html
+- https://maxtronics.com/en/support/kb/pepper/languages/pepper-languages-pepper-with-naoqi-2-9-only/
 
 QiSdk troubleshooting link:
 - https://stackoverflow.com/questions/59566621/pepper-robot-emulator-is-not-starting
